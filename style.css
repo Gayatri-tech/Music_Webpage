@@ -227,6 +227,10 @@ footer ul {
   #section_three {
     min-height: 90vh;
   }
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 @media only screen and (min-width: 768px) and (max-width: 1000px) {
   html {
